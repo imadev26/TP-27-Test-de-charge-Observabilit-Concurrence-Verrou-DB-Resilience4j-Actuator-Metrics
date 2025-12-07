@@ -1,0 +1,12 @@
+# TP27 Test Files
+*.txt
+*.json
+tmp/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
